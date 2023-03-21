@@ -54,6 +54,7 @@ public class musicAdapter extends RecyclerView.Adapter<musicAdapter.ViewHolder>{
         });
     }
 
+
     @Override
     public int getItemCount() {
         return musicList.size();
